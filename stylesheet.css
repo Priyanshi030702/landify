@@ -30,7 +30,7 @@ a {
   color: #000000;
 }
 .background-image {
-  background: url(/Background.png);
+  background: url(Background.png);
   z-index: -1;
 }
 nav {
